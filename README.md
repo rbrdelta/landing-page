@@ -1,1 +1,3 @@
 # landing-page
+Main css project
+Image credits go to....
